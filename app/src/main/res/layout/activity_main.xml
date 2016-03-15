@@ -12,7 +12,7 @@
 
     <fragment
         android:id="@+id/fragment_main"
-        class="sidespell.tech.finalsexam.fragments.MainFragment"
+        android:name="sidespell.tech.finalsexam.fragments.MainFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </RelativeLayout>
